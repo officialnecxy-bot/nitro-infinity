@@ -1,0 +1,9 @@
+{
+  "name": "NitroX Infinity",
+  "description": "High-speed P2P file transfer engine with Extreme Glassmorphism UI, featuring WiFi Direct and dual-mode connection.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
